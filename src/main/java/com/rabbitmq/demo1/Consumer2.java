@@ -1,5 +1,6 @@
-package com.rabbitmq;
+package com.rabbitmq.demo1;
 
+import com.rabbitmq.utils.RabbitMQUtil;
 import com.rabbitmq.client.*;
 
 import java.io.IOException;
